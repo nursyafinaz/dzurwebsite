@@ -1,0 +1,60 @@
+html{
+    background-color: #FA8072;
+}
+
+a:link{
+    color: black;
+}
+
+body{
+    font-family: Comic Sans MS, Arial;
+    margin: 25px 50px;
+    background-color: white;
+    padding: 20px 20px 20px 20px;
+    border: none;
+    border-radius: 12px;
+}
+
+.title{
+    font-family: Comic Sans MS;
+
+body 
+{
+margin: 25px 50px;
+background-color: white;
+padding: 20px 20px 20px 20px;
+border: none;
+}
+
+p
+{
+text-align:center;
+color:black;
+font-family:Comic Sans MS
+}
+
+h1,h2
+{
+text-align:center;
+color:#FA8072
+}
+
+table
+{
+border-collapse: collapse;
+
+width: 50%;
+}
+
+ 
+th,td
+{
+height: 50px;
+border:1px solid black
+text-align: center;
+}
+
+table,th,td
+{
+border:3px solid black
+}
